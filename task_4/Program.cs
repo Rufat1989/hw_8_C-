@@ -6,7 +6,7 @@ Clear();
 Write("Введите количество массивов: ");
 int mass_count=int.Parse(ReadLine());
 
-Write("Введите количество столбцов: ");
+Write("Введите количество строк: ");
 int columns=int.Parse(ReadLine());
 
 Write("Введите количество элементов: ");
